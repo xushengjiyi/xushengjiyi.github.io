@@ -1,0 +1,74 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4175612108"/>
+    <file name="index.css" crc="76645340" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3865766194" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 839x504.jpg" crc="65745255" ref="index"/>
+    <file name="pasted image 76x494.jpg" crc="3780449150" ref="index"/>
+    <file name="u691-4.png" crc="3758200007" ref="index"/>
+    <file name="pasted image 469x339.jpg" crc="36111654" ref="index"/>
+    <file name="良善敦厚.jpg" crc="206972694" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="故人西辞黄鹤楼.jpg" crc="4228436383" ref="index"/>
+    <file name="有书真富贵.jpg" crc="394427083" ref="index"/>
+    <file name="舍得.jpg" crc="3780206302" ref="index"/>
+    <file name="扇面道德经第一章.jpg" crc="147303542" ref="index"/>
+    <file name="人无远虑.jpg" crc="3954794345" ref="index"/>
+    <file name="知足常乐.jpg" crc="4026915555" ref="index"/>
+    <file name="良善敦厚90x45.jpg" crc="270822028" ref="index"/>
+    <file name="故人西辞黄鹤楼97x45.jpg" crc="380320400" ref="index"/>
+    <file name="有书真富贵104x45.jpg" crc="4162002497" ref="index"/>
+    <file name="舍得107x45.jpg" crc="4063225489" ref="index"/>
+    <file name="扇面道德经第一章94x45.jpg" crc="4023817789" ref="index"/>
+    <file name="人无远虑108x45.jpg" crc="101265542" ref="index"/>
+    <file name="知足常乐88x45.jpg" crc="25249359" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="积学博览.jpg" crc="3948117331" ref="index"/>
+    <file name="立德明道.jpg" crc="4235316569" ref="index"/>
+    <file name="格物致知.jpg" crc="3778504583" ref="index"/>
+    <file name="与肝胆人共事.png" crc="278314326" ref="index"/>
+    <file name="海纳百川.png" crc="181465469" ref="index"/>
+    <file name="独怜幽草涧边生.jpg" crc="3809664404" ref="index"/>
+    <file name="月落乌啼霜满天.png" crc="412997958" ref="index"/>
+    <file name="与肝胆人共事60x119.png" crc="4255271725" ref="index"/>
+    <file name="海纳百川60x124.png" crc="171121845" ref="index"/>
+    <file name="徐昇（朱）.jpg" crc="3960152072" ref="index"/>
+    <file name="吉一印（白）.jpg" crc="4149929267" ref="index"/>
+    <file name="鸿远斋主人（白）.jpg" crc="4191021571" ref="index"/>
+    <file name="吉一小玺（白）.jpg" crc="528099515" ref="index"/>
+    <file name="歌唱祖国（朱）.jpg" crc="4255624464" ref="index"/>
+    <file name="中国共产党万岁（白）.jpg" crc="4105486807" ref="index"/>
+    <file name="秦周至人（朱）.jpg" crc="4243558555" ref="index"/>
+    <file name="徐昇（朱）2.jpg" crc="4039551924" ref="index"/>
+    <file name="陕周至人（朱）.jpg" crc="4243123182" ref="index"/>
+    <file name="文川印（朱白）.jpg" crc="62959106" ref="index"/>
+    <file name="徐昇长寿（白）.jpg" crc="4250440921" ref="index"/>
+    <file name="莫登大雅之堂（白）.jpg" crc="4183790098" ref="index"/>
+    <file name="五十方知己无知.jpg" crc="3980644086" ref="index"/>
+    <file name="从心所欲.jpg" crc="4278513991" ref="index"/>
+    <file name="名画要如诗句读.jpg" crc="4096618220" ref="index"/>
+    <file name="两袖清风.jpg" crc="263782593" ref="index"/>
+    <file name="心旷神怡.jpg" crc="225326759" ref="index"/>
+    <file name="寿联.jpg" crc="55526301" ref="index"/>
+    <file name="从心所欲60x53.jpg" crc="3912228891" ref="index"/>
+    <file name="名画要如诗句读60x63.jpg" crc="3778185600" ref="index"/>
+    <file name="两袖清风60x53.jpg" crc="4266503122" ref="index"/>
+    <file name="心旷神怡60x58.jpg" crc="4070659633" ref="index"/>
+    <file name="寿联60x61.jpg" crc="97562273" ref="index"/>
+    <file name="将进酒.jpg" crc="71600293" ref="index"/>
+    <file name="幽兰赋.jpg" crc="3965958479" ref="index"/>
+    <file name="将进酒71x45.jpg" crc="336188676" ref="index"/>
+    <file name="幽兰赋84x45.jpg" crc="3862923543" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4098353862" mt="1400223535598" redirect="true"/>
+</manifest>
